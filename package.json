@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-dvhp",
+  "version": "1.0.1",
+  "description": "Whenever we start a project it is typical to write the epic Hello World, so here I give you Hello Worlds in different languages at random.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Danna Hernández <hernandezpinilla.danna@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannahernandezp/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dannahernandezp/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/dannahernandezp/npm-random-msg#readme"
+}
